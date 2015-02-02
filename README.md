@@ -1,4 +1,4 @@
-# MLS Junk Generator R Implementation
+# MLS Junk GeneratR (R Implementation of the MLS Junk Generator)
 by Scumdog Steev / Steve Myles
 
 License:  [MIT License](https://github.com/scumdogsteev/mls-junk-generatR/blob/master/LICENSE)
