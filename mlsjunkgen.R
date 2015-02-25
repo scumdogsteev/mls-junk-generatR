@@ -4,7 +4,7 @@
 ## 2015-02-01
 ##
 ## These functions generate a vector (mlsjunkgenV) or a data frame (mlsjunkgenD)
-## containing a stream of pseudo-random numbers generated using the MLS Junkg
+## containing a stream of pseudo-random numbers generated using the MLS Junk
 ## Generator.
 ##
 ## For both functions, the user specifies the number of RNs to generate (n), 
