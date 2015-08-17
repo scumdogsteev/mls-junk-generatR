@@ -32,7 +32,7 @@ z = r<sub>i</sub>
 1. [mlsjunkgen.R](https://github.com/scumdogsteev/mls-junk-generatR/blob/master/mlsjunkgen.R) - R implementation that creates
 either a vector or a data frame of pseudo-random numbers.
 
-Project Info:
+**Project Info:**
 
 * Converted to R package [mlsjunkgen](https://github.com/scumdogsteev/mlsjunkgen):  2015.08.16
 * R Source last updated: 2015.02.01
